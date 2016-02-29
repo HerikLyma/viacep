@@ -1,4 +1,4 @@
-# viacep
+# ViaCep
 Consulta de CEP's via web services
 
 Windows
