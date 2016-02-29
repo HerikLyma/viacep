@@ -1,5 +1,5 @@
-# ViaCep
-Consulta de CEP's via web services
+# ViaCepConsulta
+Consulta de CEP's via web services utilizando C++ com Qt
 
 Windows
 
