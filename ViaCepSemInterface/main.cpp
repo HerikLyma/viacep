@@ -1,3 +1,8 @@
+/**
+  @file
+  @author Herik Lima
+*/
+
 #include <iostream>
 #include <QCoreApplication>
 #include <QNetworkAccessManager>

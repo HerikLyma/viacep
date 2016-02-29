@@ -1,5 +1,11 @@
+/**
+  @file
+  @author Herik Lima
+*/
+
 #ifndef FRMVIACEPCOMINTERFACE_H
 #define FRMVIACEPCOMINTERFACE_H
+
 
 #include <QMainWindow>
 #include <QNetworkAccessManager>

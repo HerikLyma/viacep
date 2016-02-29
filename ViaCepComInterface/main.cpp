@@ -1,3 +1,8 @@
+/**
+  @file
+  @author Herik Lima
+*/
+
 #include "frmviacepcominterface.h"
 #include <QApplication>
 
