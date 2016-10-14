@@ -14,5 +14,12 @@ before_install:
 
 
 script:
- - qmake ViaCepSemInterface/ViaCepSemInterface.pro
- - qmake ViaCepComInterface/ViaCepComInterface.pro
+ - cd ViaCepComInterface
+ - qmake ViaCepComInterface.pro
+ - qmake
+ - make
+ - cd ..
+ - cd ViaCepSemInterface
+ - qmake ViaCepSemInterface.pro
+ - qmake
+ - make
