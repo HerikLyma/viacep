@@ -1,4 +1,7 @@
+[![Travis-CI](https://travis-ci.org/HerikLyma/viacepconsulta.svg?branch=master)](https://travis-ci.org/HerikLyma/viacepconsulta)
+
 # ViaCepConsulta
+
 Consulta de CEP's via web services utilizando C++ com Qt
 
 Windows
